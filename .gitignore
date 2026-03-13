@@ -1,0 +1,5 @@
+echo "simulator" > .gitignore
+echo "out/" >> .gitignore
+echo "*.o" >> .gitignore
+echo "test_seg" >> .gitignore
+echo "test_pag" >> .gitignore
