@@ -1,0 +1,11 @@
+{
+  "mode": "page",
+  "metrics": {
+    "tlb_hits": 16,
+    "page_faults": 784,
+    "evictions": 776,
+    "segfaults": 0
+  },
+  "runtime_sec": 0.321,
+  "throughput_ops_sec": 2493.74
+}
